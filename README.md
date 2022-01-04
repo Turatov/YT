@@ -1,2 +1,0 @@
-# YT.github.io
-mysite

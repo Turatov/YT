@@ -1,0 +1,99 @@
+body{
+	padding: 0;
+	margin: 0;
+font-family: "Montserrat" , sans-serif;
+color:black;
+font-size:16px;
+}
+{
+	box-sizing: border-box;
+
+}
+
+h1{
+	font-size: 72px;
+	margin-left: 70px;
+}
+h3{
+	margin-left: 72px;
+}
+.header{
+	background: url('../img/bg 1.jpg') no-repeat center top / cover;
+	padding-top: 57px;
+	color: #fff;
+	padding-bottom: 322px
+}
+header a {
+	color: #fff;
+}
+.menu {
+	display: flex;
+
+}
+.menu{
+	color: #fff;
+}
+.menu li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 24px;
+	letter-spacing: 0.1em;
+	margin-bottom: 40px;
+	position: relative;
+	bottom: 60px;
+}
+.menu li {
+	margin-right: 40px;
+}	
+.nav {
+	display: flex;
+	align-items: center;
+	position: relative;
+	bottom: 60px;
+}
+li {
+    list-style-type: none;
+}
+.btn {
+	
+	font-size: 17px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	padding: 17px 47px;
+	border: 2px solid #fff;
+	width: 238px;
+	transition: all 0.5s ease;
+	position: relative;
+	left:60px;
+	top: 250px;
+}
+.photo{
+	width:201px;
+   height:97px; 
+   position: relative;
+   left: 800PX;
+   top: 320px;
+   
+}
+.flw{
+	position: relative;
+	left: 70px;
+	top: 230px;
+
+}
+.icon{
+	position: relative;
+	left: 50px;
+	top: 230px;
+	
+}
+
+.cake li {
+	margin-right: 40px;
+}
+
+.cake{
+	display: flex;
+  flex-direction: row;
+
+}
